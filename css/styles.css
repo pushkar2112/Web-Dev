@@ -1,7 +1,30 @@
 body {
-  background-color: red;
+  background-color: #FFF1AF;
+  font: "Times New Roman", serif;
 }
 
-h1 {
+h1, h2 {
   text-align: center;
+}
+
+hr {
+  border-style: none;
+  border-top-style: solid;
+  border-color: #B4C6A6;
+  border-width: 2px;
+
+}
+
+table,td{
+  border: solid;
+  border-style: solid;
+  border-collapse: collapse;
+  border-color: #B4C6A6;
+  text-align: center;
+  margin: auto;
+}
+
+thead {
+  font-size: large;
+  /*line-height: .1px;*/
 }
