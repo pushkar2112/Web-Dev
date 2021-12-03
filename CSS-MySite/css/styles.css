@@ -2,6 +2,8 @@
 body {
   margin: 0;
   text-align: center;
+  color: #40514E;
+  font-weight: bold;
 }
 
 a {
@@ -41,6 +43,7 @@ hr {
 
 p {
   font-family: 'Cairo', sans-serif;
+  line-height: 2;
 }
 
 /************************Class Selectors********************/
@@ -67,6 +70,8 @@ p {
 .hello-desc {
   color: #40514E;
   font-weight: bold;
+  width: 40%;
+  margin: auto;
 }
 
 .top-cloud {
@@ -98,6 +103,7 @@ p {
 }
 
 .computer-img {
+  /* background-color: #864879; */
   border-radius: 50%;
   width: 25%;
   float: right;
@@ -137,6 +143,8 @@ p {
 
 .contact-text {
   font-weight: bold;
+  width: 50%;
+  margin: 40px auto;
 }
 
 .bottom-container {
