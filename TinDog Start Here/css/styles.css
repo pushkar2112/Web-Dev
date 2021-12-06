@@ -68,6 +68,15 @@ p {
   /* top: 100px; */
 }
 
+@media (max-width: 990px) {
+.title-img {
+  transform: rotate(0deg);
+  position: static;
+  width: 60%;
+}
+
+}
+
 /* Features */
 #features {
   background-color: #fff;
