@@ -149,4 +149,29 @@ p {
 #cta {
   background-color: #ff4c68;
   text-align: center;
+  color: #fff;
+  padding: 7% 15%;
+}
+
+.cta-text {
+  font-size: 3rem;
+  line-height: 1.5;
+  padding-bottom: 10px;
+}
+
+.cta-btn {
+  margin: 2%;
+}
+
+/* Footer */
+#footer {
+  background-color: #fff;
+  padding: 5% 15%;
+  text-align: center;
+}
+
+.fa-customx {
+  font-size: 1.4rem;
+  margin: 0.75rem;
+  padding-bottom: 0.75rem;
 }
