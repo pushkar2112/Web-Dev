@@ -75,6 +75,13 @@ p {
   width: 60%;
 }
 
+.title-text {
+  text-align: center;
+}
+
+.testimonial-text {
+  font-size: 2rem;
+}
 }
 
 /* Features */
