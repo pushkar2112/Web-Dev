@@ -2,22 +2,23 @@
 outline: 1px solid red;
 } */
 
-h1 {
+h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif;
   font-weight: 900;
+}
+
+h1 {
   font-size: 3.25rem;
   line-height: 1.5;
 }
 
 h2 {
-  font-family: "Montserrat", sans-serif;
   font-weight: bold;
   font-size: 3rem;
   line-height: 1.5;
 }
 
 h3 {
-  font-family: "Montserrat", sans-serif;
   font-weight: bold;
 }
 
